@@ -1,0 +1,5 @@
+adafruit/Adafruit Unified Sensor@^1.1.4
+adafruit/DHT sensor library
+ricaun/CayenneLPPDecode@^1.0.3
+bblanchon/ArduinoJson@^6.17.2
+mcci-catena/MCCI LoRaWAN LMIC library@^4.1.1

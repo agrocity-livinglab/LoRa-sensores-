@@ -1,5 +1,6 @@
 {
     "files.associations": {
+        "*.embeddedhtml": "html",
         "random": "cpp",
         "cmath": "cpp",
         "*.tcc": "cpp",
@@ -8,6 +9,7 @@
         "istream": "cpp",
         "ostream": "cpp",
         "sstream": "cpp",
-        "streambuf": "cpp"
+        "streambuf": "cpp",
+        "lmic_bandplan.h": "c"
     }
 }
